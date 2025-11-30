@@ -3,7 +3,7 @@ import React from 'react'
 const Center = () => {
   return (
     
-      <div className=' bg-linear-to-br from-white-50 to-blue-100 min-h-screen flex flex-col justify-center items-center pt-24 p-6 '>
+      <div  className=' bg-linear-to-br from-white-50 to-blue-100 min-h-screen flex flex-col justify-center items-center pt-24 p-6 '>
         <div className='bg-linear-to-br from-blue-200 to-blue-100 px-4 py-1 rounded-2xl '>
           <h6 className='text-xs text-blue-500 font-semibold'>Computer Engineering Student</h6>
         </div> 

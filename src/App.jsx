@@ -7,15 +7,16 @@ import Projects from './components/Projects.jsx'
 import Education from './components/Education.jsx'
 import Footer from './components/Footer.jsx'
 
+
 const App = () => {
   return (
     <div>
       <Navbar />
-      <Center />
+      <Center/>
       <About />
       <Skill />
-      <Projects />  
-      <Education/>
+      <Projects />
+      <Education /> 
       <Footer />
     </div>
   )
