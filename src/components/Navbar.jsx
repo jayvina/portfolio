@@ -17,6 +17,7 @@ const Navbar = () => {
         <a href="#skill" className="hover:text-gray-800 transition">Skill</a>
         <a href="#project" className="hover:text-gray-800 transition">Project</a>
         <a href="#education" className="hover:text-gray-800 transition">Education</a>
+        <a href="#certificate" className="hover:text-gray-800 transition">Certificate</a>
         <a href="#contact" className="hover:text-gray-800 transition">Contact</a>
       </div>
 
@@ -33,6 +34,7 @@ const Navbar = () => {
           <a href="#skill" className=" flex items-center justify-center" onClick={() => setIsOpen(false)}>Skill</a>
           <a href="#project" className=" flex items-center justify-center"  onClick={() => setIsOpen(false)}>Project</a>
           <a href="#education" className=" flex items-center justify-center" onClick={() => setIsOpen(false)}>Education</a>
+          <a href="#certificate" className=" flex items-center justify-center" onClick={() => setIsOpen(false)}>Certificate</a>
           <a href="#contact" className=" flex items-center justify-center" onClick={() => setIsOpen(false)}>Contact</a>
         </div>
       )}

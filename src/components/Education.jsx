@@ -26,7 +26,7 @@ const Education = () => {
   return (
     <div id='education' className='min-h-screen pt-26 px-80 bg-linear-to-br from-white-50 to-blue-100'>
         <h6 className='bg-blue-500 text-white px-3 py-0.5 text-[13px] rounded-full flex text-center font-bold w-25'>My Toolbox</h6>
-        <h1 className='text-4xl font-bold mt-3'>Skills & Expertise</h1>
+        <h1 className='text-4xl font-bold mt-3'>Education</h1>
         <p className='mt-4 text-[17px] text-gray-500'>My academic background, educational journey.</p>
 
         <div className="space-y-8 ">

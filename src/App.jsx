@@ -6,17 +6,21 @@ import Skill from './components/Skill.jsx'
 import Projects from './components/Projects.jsx'
 import Education from './components/Education.jsx'
 import Footer from './components/Footer.jsx'
+import Certificates from './components/Certificates.jsx'
+
 
 
 const App = () => {
   return (
     <div>
+      
       <Navbar />
       <Center/>
       <About />
       <Skill />
       <Projects />
-      <Education /> 
+      <Education />
+      <Certificates/> 
       <Footer />
     </div>
   )
