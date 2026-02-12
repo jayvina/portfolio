@@ -200,7 +200,7 @@ Error generating stack: `+i.message+`
               text-white font-medium\r
               shadow-[0_0_25px_rgba(59,130,246,0.5)]\r
               cursor-pointer\r
-            `,children:"View My Work"})}),z.jsx("a",{href:"/portfolio/images/Jayvina_Resume.pdf",target:"_blank",rel:"noopener noreferrer",className:"w-full sm:w-auto",children:z.jsx("button",{className:`\r
+            `,children:"View My Work"})}),z.jsx("a",{href:"/portfolio/images/Jayvina_Resume_Enroll_66.pdf",target:"_blank",rel:"noopener noreferrer",className:"w-full sm:w-auto",children:z.jsx("button",{className:`\r
               w-full sm:w-auto\r
               rounded-full\r
               px-8 py-3\r
